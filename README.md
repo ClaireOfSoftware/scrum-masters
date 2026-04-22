@@ -3,6 +3,15 @@ Deze repository wordt gebruikt door de Scrum Masters van FDND Agency om hun werk
 
 Scrum Masters: Clarice & Nayome
 
+# Schedule:
+09:45 - AdConnect & KNMI Air Pollution Africa
+10:00 - Bijlmer Chronicles (Emibazo toch?)
+10:15 - Digital Proof Empowerment
+10:30 - FDND component library
+10:45 - FootGuard
+11:00 - Nebula Xplorer
+11:15 - Toolgankelijk
+
 
 ### Doel van deze repository
 
